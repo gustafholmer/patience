@@ -1,5 +1,5 @@
 # patience
-Patience (Solitaire) game written in Java
+Patience (Solitaire) game written in Java. Final project in a object-oriented programming course.
 
 # Author: Gustaf Holmer
 
